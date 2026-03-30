@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
-- 🔭 I’m currently working at **Waapi on Waalaxy & Kawaak**
+- 🔭 I’m currently working at **Zefir**
 
 
 <h3 align="left">Languages and Tools:</h3>
